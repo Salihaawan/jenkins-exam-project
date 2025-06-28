@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Coverage directory
+/coverage
+
+# Build artifacts
+/build

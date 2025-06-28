@@ -1,0 +1,25 @@
+{
+  "name": "jenkins-exam-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "jest",
+  "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Salihaawan/jenkins-exam-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Salihaawan/jenkins-exam-project/issues"
+  },
+  "homepage": "https://github.com/Salihaawan/jenkins-exam-project#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.30.0",
+    "jest": "^30.0.3"
+  }
+}
